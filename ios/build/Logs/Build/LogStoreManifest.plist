@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>0EF52E40-CFDE-4735-AFB8-8C04895F8758</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0EF52E40-CFDE-4735-AFB8-8C04895F8758.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>app project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>app</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace app with scheme app and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>570552872.52589297</real>
+			<key>timeStoppedRecording</key>
+			<real>570552881.66048801</real>
+			<key>title</key>
+			<string>Building workspace app with scheme app and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>0EF52E40-CFDE-4735-AFB8-8C04895F8758</string>
+		</dict>
+		<key>361A0745-372D-469B-B0D0-4FF30AF89275</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>361A0745-372D-469B-B0D0-4FF30AF89275.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>app project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>app</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace app with scheme app and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>559598943.97742403</real>
+			<key>timeStoppedRecording</key>
+			<real>559598971.73609996</real>
+			<key>title</key>
+			<string>Building workspace app with scheme app and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>361A0745-372D-469B-B0D0-4FF30AF89275</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
